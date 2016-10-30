@@ -1,2 +1,2 @@
 # hello-world
-Try out github and store development ideas.
+I write financial Android apps for a living.
